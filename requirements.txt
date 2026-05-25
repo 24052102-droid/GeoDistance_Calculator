@@ -1,0 +1,8 @@
+wikipedia-api
+requests
+beautifulsoup4
+geopy
+folium
+pandas
+requests>=2.31.0
+folium>=0.16.0
